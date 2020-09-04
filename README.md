@@ -4,7 +4,7 @@
 
 **I am a data scientist who is driven to make sense of why people do what they do and to figure out how we can make better decisions.**
 
-In the past, this led me to the fields of psychology and cognitive science, where I earned my PhD studying why, when, and how humans and other primates make irrational decisions. I transitioned to a data career in industry to have a more direct impact by solving problems in people's day-to-day lives. As a data science fellow at Insight, I consulted with the social media startup Stacks to build them an end-to-end recommender system that helps users more easily connect with each other on the app and find content that they'll love.
+In the past, this led me to the fields of psychology and cognitive science, where I earned my PhD studying why, when, and how humans and other primates make irrational decisions. I transitioned to a data career in industry to have a more direct impact on people's day-to-day lives. As a data science fellow at Insight, I consulted with the social media startup Stacks to build them an end-to-end recommender system that helps users more easily connect with each other on the app and find content that they'll love.
 
 Currently, I am extremely excited to use this drive and my skills as a data scientist at Audible to empower listeners to find relevant content that they meaningfully care about and to help them get the most out of the catalog.
 
