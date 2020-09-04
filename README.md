@@ -10,10 +10,10 @@ Currently, I am extremely excited to use this drive and my skills as a data scie
 
 ### Get in touch!
 
-![mailto:j.watzek@gmail.com](https://img.shields.io/badge/&#9993;-email-lightgrey)
-![http://www.juliawatzek.com/](https://img.shields.io/badge/-website-lightgrey?logo=Jekyll&labelColor=grey)
-![https://twitter.com/watzoever](https://img.shields.io/badge/-watzoever-%231DA1F2?logo=Twitter&logoColor=white)
-![https://www.linkedin.com/in/jwatzek/](https://img.shields.io/badge/-jwatzek-%230077B5?logo=LinkedIn)
+[![](https://img.shields.io/badge/&#9993;-email-lightgrey)](mailto:j.watzek@gmail.com)
+[![](https://img.shields.io/badge/-website-lightgrey?logo=Jekyll&labelColor=grey)](http://www.juliawatzek.com/)
+[![](https://img.shields.io/badge/-watzoever-%231DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/watzoever)
+[![](https://img.shields.io/badge/-jwatzek-%230077B5?logo=LinkedIn)](https://www.linkedin.com/in/jwatzek/)
 
 
 <!--
