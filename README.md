@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Julia 👋
 
-I'm a data scientist who is driven to make sense of why people do what they do and to figure out how we can make better decisions. I earned my PhD in psychology / cognitive sciences studying why, when, and how humans and other primates make irrational decisions. Currently, I'm extremely excited to use my background and skills as a data scientist at Audible to empower listeners to find content that they'll love.
+I'm a data scientist who is driven to make sense of why people do what they do and to figure out how we can make better decisions. I earned my PhD in psychology / cognitive sciences studying why, when, and how humans and other primates make irrational decisions. Currently, I work on search and discovery at Audible to empower listeners to find content that they'll love.
 
 [![](https://img.shields.io/badge/&#9993;-email-lightgrey)](mailto:hello@juliawatzek.com)
 [![](https://img.shields.io/badge/-website-lightgrey?logo=Jekyll&labelColor=grey)](http://www.juliawatzek.com/)
