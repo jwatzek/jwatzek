@@ -1,4 +1,4 @@
-<!-- ![](http://www.juliawatzek.com/images/IMG_9699_landscape.jpg)>
+<!-- ![](http://www.juliawatzek.com/images/IMG_9699_landscape.jpg) -->
 
 ### Hey there, I'm Julia 👋
 
