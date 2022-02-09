@@ -4,7 +4,6 @@
 
 I'm a data scientist who is driven to make sense of why people do what they do and to figure out how we can make better decisions. I earned my PhD in psychology / cognitive sciences studying why, when, and how humans and other primates make irrational decisions. Currently, I work on search and discovery at Audible to empower listeners to find content that they'll love.
 
-[![](https://img.shields.io/badge/&#9993;-email-lightgrey)](mailto:hello@juliawatzek.com)
 [![](https://img.shields.io/badge/-website-lightgrey?logo=Jekyll&labelColor=grey)](http://jwatzek.github.io)
 [![](https://img.shields.io/badge/-watzoever-%231DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/watzoever)
 [![](https://img.shields.io/badge/-jwatzek-%230077B5?logo=LinkedIn)](https://www.linkedin.com/in/jwatzek/)
